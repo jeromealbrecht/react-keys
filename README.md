@@ -42,6 +42,10 @@ npm run dev
 
 4. Ouvrez [http://localhost:5173](http://localhost:5173) dans votre navigateur
 
+## Déploiement
+
+L'application est déployée sur Vercel : [https://react-keys-one.vercel.app/](https://react-keys-one.vercel.app/)
+
 ## Concepts React Illustrés
 
 ### Cycle de Vie des Composants
