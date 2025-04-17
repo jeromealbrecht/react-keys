@@ -4,9 +4,7 @@ Une application moderne de gestion de tâches construite avec React et Tailwind 
 
 ## Aperçu
 
-![preview][preview]
-
-[preview]: rk-preview.png
+![preview](https://react-keys-one.vercel.app/rk-preview.png)
 
 ## Fonctionnalités
 
