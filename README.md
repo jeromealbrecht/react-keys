@@ -2,6 +2,10 @@
 
 Une application moderne de gestion de tâches construite avec React et Tailwind CSS, mettant en avant les concepts clés de React comme le cycle de vie des composants et l'importance des keys.
 
+## Aperçu
+
+![Aperçu de ReactKey](rk-preview.png)
+
 ## Fonctionnalités
 
 - Gestion complète des tâches (CRUD)
