@@ -4,7 +4,9 @@ Une application moderne de gestion de tâches construite avec React et Tailwind 
 
 ## Aperçu
 
-![Aperçu de ReactKey](rk-preview.png)
+![preview][preview]
+
+[preview]: rk-preview.png
 
 ## Fonctionnalités
 
